@@ -1,7 +1,7 @@
 # ShunDepression
 An interactive web application to help people shun depression
 
-#MISSION STATEMENT 
+### _MISSION STATEMENT_
 
 This project aims to bring together web developers(front-end/back-end/full stack) to build an interactive web application that will motivate and inspire users to evade the fangs of depression and realise their potential to the fullest.
 
