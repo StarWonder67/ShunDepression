@@ -1,7 +1,7 @@
-### ShunDepression
+##### ShunDepression
 An interactive web application to help people shun depression
 
-# Social networking apps sucking too much of your energy???
+ _Social networking apps sucking too much of your energy???
 You have come to the right place to channelise your frustration into building something productive
 
 ### __MISSION STATEMENT__
@@ -17,19 +17,19 @@ You have come to the right place to channelise your frustration into building so
 
 ## Technologies
 This project will be primarily using the following technologies-
-1- Frontend : HTML5,CSS,JavaScript,Bootstrap,jQuery
-2- Backend  : Node.js,Express,MongoDB
+* Frontend : HTML5,CSS,JavaScript,Bootstrap,jQuery
+* Backend  : Node.js,Express,MongoDB
 
 
 
 # Features 
-1- A dynamic dashboard with links to motivational and inspirational blogs,posts,news,videos,songs
-2- An open community chat-box where people from all round the world can interact
-3- Creative Workspace (A dashboard) where users can-
+1. A dynamic dashboard with links to motivational and inspirational blogs,posts,news,videos,songs
+2. An open community chat-box where people from all round the world can interact
+3. Creative Workspace (A dashboard) where users can-
     * write a blog
     * maintain a to-do list
     * upload stories,poems,paintings (anything which they are talented in)
-4- Static webpages with information on what is depression, how to deal with it,etc
+4. Static webpages with information on what is depression, how to deal with it,etc
 
 # CONTRIBUTING.md
 
