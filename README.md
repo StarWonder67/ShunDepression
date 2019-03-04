@@ -8,7 +8,9 @@ You have come to the right place to channelise your frustration into building so
  This project aims to build an interactive web application that will motivate and help users to evade the fangs of depression and realise their potential to the fullest.
 
 ### __MOTIVATION__
-
+We all have felt low and stressed at some point of our lives. In today's world, where technology is engulfing us from all spheres of lives, a major factor affecting our moods is social networking applications.
+The temptation to check our phones for unread messages or noitfications is almost impossible to resist. According to a report too much involvement in social media causes bad temperament, low self-esteem, lack of confidence and all of this mounts upto a condition known as 'Facebook Depression'.
+The focus of this project is to provide a feed to the user which motivates/inspires him to become a much better version of himself.
 
 ## Prerequisites
 * A zeal to learn and build
@@ -36,4 +38,7 @@ This project will be primarily using the following technologies-
 Dive right in, and start [contributing by reading the guidlines here](https://github.com/StarWonder67/ShunDepression/blob/master/CONTRIBUTING.md)
 
 # RESOURCES FOR BEGINNERS
-1. **Learn Web development** : 
+1. **Learn Web development** :
+    * [w3school](https://www.w3schools.com/)
+    * [freecodecamp](https://www.freecodecamp.org/)
+
