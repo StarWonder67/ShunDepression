@@ -1,19 +1,20 @@
-##### ShunDepression
-An interactive web application to help people shun depression
+## ShunDepression
+An interactive web application to help people 
 
- _Social networking apps sucking too much of your energy???
-You have come to the right place to channelise your frustration into building something productive
+ __Social networking apps sucking too much of your energy???__
+You have come to the right place to channelise your frustration into building something productive.
 
 ### __MISSION STATEMENT__
- This project aims to bring together web developers(front-end/back-end/full stack) to build an interactive web application that will motivate and inspire users to evade the fangs of depression and realise their potential to the fullest.
+ This project aims to build an interactive web application that will motivate and help users to evade the fangs of depression and realise their potential to the fullest.
 
 ### __MOTIVATION__
- In today's fast pacing world, where our brains are overloaded with excessive information and social media adversaly affecting our lives, it is extremely important that we use technology in the best possible manner to fight back. Applications like Facebook, Instagram literally devise strategies to grab our attention.Seeing a new pop-up notification releases a chemical called Dopemine in the body which causes anxiety, nervousness, low self-esteem and lack of self confidence.All this keeps mounting up and leads to the state of Depression.
+
 
 ## Prerequisites
-* A basic knnowledge of frontend/backend/both
 * A zeal to learn and build
 * A certain dislike towards social netwroking apps (:p)
+* **For web-developers:** basic knowledge of frontend/backend/both
+* **For non-web-developers:** creativity, innovative feature/design ideas, bieng able to understand the state of mind of a potential user
 
 ## Technologies
 This project will be primarily using the following technologies-
@@ -22,17 +23,17 @@ This project will be primarily using the following technologies-
 
 
 
-# Features 
+## Features 
 1. A dynamic dashboard with links to motivational and inspirational blogs,posts,news,videos,songs
 2. An open community chat-box where people from all round the world can interact
 3. Creative Workspace (A dashboard) where users can-
     * write a blog
     * maintain a to-do list
-    * upload stories,poems,paintings (anything which they are talented in)
+    * upload stories,poems,paintings (anything which the user is talented in)
 4. Static webpages with information on what is depression, how to deal with it,etc
 
 # CONTRIBUTING.md
-
+Dive right in, and start [contributing by reading the guidlines here](https://github.com/StarWonder67/ShunDepression/blob/master/CONTRIBUTING.md)
 
 # RESOURCES FOR BEGINNERS
-link to mdn,bootstrap,css,etc
+1. **Learn Web development** : 
