@@ -1,5 +1,5 @@
 ## ShunDepression
-An interactive web application to help people 
+An interactive web application to help people suffering from Depression.
 
  __Social networking apps sucking too much of your energy???__
 You have come to the right place to channelise your frustration into building something productive.
